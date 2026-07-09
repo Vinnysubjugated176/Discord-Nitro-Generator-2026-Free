@@ -1,0 +1,5 @@
+mouse
+click
+psutil
+pygetwindow
+rich
